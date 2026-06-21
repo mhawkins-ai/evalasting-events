@@ -13,7 +13,7 @@ window.EE_CONFIG = {
   email:        "hello@evalastingevents.com",   // contact email
 
   // --- Service area & hours ---
-  area:         "Los Angeles County, Inland Empire",                  // your city / main service area
+  area:         "Los Angeles County & Inland Empire",                  // your city / main service area
   hoursShort:   "By appointment",               // shown in the footer
   hoursFull:    "By appointment · Mon–Sat",     // shown on the Contact page
 
