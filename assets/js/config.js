@@ -10,7 +10,7 @@ window.EE_CONFIG = {
   // --- Contact ---
   phone:        "+13109729686",                 // click-to-call: digits only, incl. country code (+1)
   phoneDisplay: "(310) 972-9686",               // how the phone number is shown on the page
-  email:        "hello@evalastingevents.com",   // contact email
+  email:        "info@evalastingevents.com",   // contact email
 
   // --- Service area & hours ---
   area:         "Los Angeles County & Inland Empire",                  // your city / main service area
