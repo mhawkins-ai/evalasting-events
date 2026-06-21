@@ -89,7 +89,7 @@ p{margin:0 0 1.1em}
   background:var(--grad-gold);
   -webkit-background-clip:text;background-clip:text;
   -webkit-text-fill-color:transparent;color:var(--gold);
-  line-height:.9;
+  line-height:1.18;padding-top:.05em;
 }
 h1,h2.h-display{
   font-family:var(--serif);
@@ -176,7 +176,7 @@ h1{font-size:clamp(2.6rem,6.4vw,5rem)}
 .hero__bg.pinkwash::before{content:"";position:absolute;inset:0;z-index:1;background:radial-gradient(80% 60% at 80% 90%,rgba(240,108,180,.22),transparent 60%);mix-blend-mode:screen}
 .hero__inner{position:relative;z-index:1;padding-block:140px 90px;max-width:880px}
 .hero h1{margin-bottom:.1em}
-.hero .script{font-size:clamp(3.2rem,9vw,6.6rem);display:block;margin-bottom:-.1em}
+.hero .script{font-size:clamp(3.2rem,9vw,6.6rem);display:block;margin:-.05em 0 -.14em}
 .hero__tagline{font-size:clamp(1.1rem,1.7vw,1.4rem);color:#efe6e9;max-width:54ch;margin:1.4rem 0 2.2rem;font-weight:300}
 .hero__scroll{position:absolute;left:50%;bottom:26px;transform:translateX(-50%);z-index:1;color:var(--muted);font-size:.66rem;letter-spacing:.3em;text-transform:uppercase;display:flex;flex-direction:column;align-items:center;gap:8px}
 .hero__scroll span{width:1px;height:42px;background:linear-gradient(var(--gold),transparent);animation:pulse 2.4s var(--ease) infinite}
