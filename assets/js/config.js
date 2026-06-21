@@ -18,7 +18,7 @@ window.EE_CONFIG = {
   hoursFull:    "By appointment · Mon–Sat",     // shown on the Contact page
 
   // --- Social links (full URLs) ---
-  instagram:    "https://www.instagram.com/evalastingevents",
+  instagram:    "https://www.instagram.com/evalastingeventplanning",
   facebook:     "https://www.facebook.com/evalastingevents",
   tiktok:       "https://www.tiktok.com/@evalastingevents"
 };
