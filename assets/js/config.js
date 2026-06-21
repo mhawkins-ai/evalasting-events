@@ -8,8 +8,8 @@
    ============================================================ */
 window.EE_CONFIG = {
   // --- Contact ---
-  phone:        "+15551234567",                 // click-to-call: digits only, incl. country code (+1)
-  phoneDisplay: "(555) 123-4567",               // how the phone number is shown on the page
+  phone:        "+13109729686",                 // click-to-call: digits only, incl. country code (+1)
+  phoneDisplay: "(310) 972-9686",               // how the phone number is shown on the page
   email:        "hello@evalastingevents.com",   // contact email
 
   // --- Service area & hours ---
